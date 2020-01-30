@@ -1,0 +1,15 @@
+/* ==================== */
+/* BASIC SETUP  */
+/* ==================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+/* ==================== */
+/* REUSABLE COMPONENTS  */
+/* ==================== */
